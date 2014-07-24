@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+.boolean {
+	padding-top: 5px;
+}
